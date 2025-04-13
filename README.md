@@ -32,7 +32,7 @@ This Python project recommends healthy meals and personalized workouts based on 
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/weather-meal-workout.git
+   git clone https://github.com/shukla221b/weather-meal-workout.git
    cd weather-meal-workout
    ```
 
@@ -49,10 +49,11 @@ This Python project recommends healthy meals and personalized workouts based on 
    export SPOONACULAR_API_KEY=your_spoonacular_key
    ```
 
-4. **Run the app**
-   ```bash
-   python main.py
-   ```
+4. **Run the notebook**
+   
+   WBFR.ipynb
+   
+
 
 ---
 
